@@ -13,4 +13,4 @@ I loved it because it's my first project using Bootstrap.
 [FrontEndMaster Bootcamp](https://frontendmasters.com/bootcamp/) - HTML course by Jen Kramer
 
 ## Final result
-![Photography Blog Post](https://github.com/Clelia-M/photography-blog-post/blob/5a268110e5279a1f6b643612c578d2974c5a52b7/assets/Photography%20Blog%20Post%20Thumb.png)
+![Photography Blog Post](https://github.com/Clelia-M/photography-blog-post/blob/ea19743c9bcbf0cb5212f64e3c2880b840f3b625/assets/Photo_Blog%20Post_Thumb.png)
